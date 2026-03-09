@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class e1 {
     public static void main(String[] args) {
 
-//type 1 - without parametr without return type
+//type 1 - without parameter without return type
 //type 2 - with parameter without return type
 //type 3 - without parameter with return type
 //type 4 - with parameter with return type
